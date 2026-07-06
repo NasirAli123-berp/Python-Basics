@@ -66,6 +66,7 @@ print(name.replace("ali", "asad"))
 print(name.count("a"))
 print(name.strip())
 
+# Interview questions 
 # 1. What is the difference between upper() and lower()?
 # 2. What is the difference between split() and join()?
 # 3. Why is strip() important in data cleaning?
